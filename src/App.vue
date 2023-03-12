@@ -164,10 +164,6 @@ export default {
     &__year {
       font-size: 24px;
     }
-
-    &__id {}
-
-    &__type {}
   }
 
 }
